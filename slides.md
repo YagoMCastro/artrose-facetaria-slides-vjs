@@ -5,47 +5,30 @@ The reveal.js configuration can be found in index.html
 -------------------------------------------------------------------------------
 -->
 
-<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
+<!-- .slide: class="slide-title" data-background-image="assets/infiltracao.jpeg" data-background-color="#000000" data-background-size="contain" data-background-opacity="0.3" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may <br>be kind of boring and <br>more than one line long
+  Artrose Facetária
 </h1>
 <p id="talk-authors">
-  <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>,
-  Author Two,
-  and
-  Author Three
+  Vinícius Januário de Souza
 </p>
-
+<p></p>
 <!-- Place location and date side-by-side with affiliation logos -->
 <div class="row talk-info">
 <div class="col-large">
 
-<i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-XX Month 202X
-<span style="margin: 0 20px"></span>
-Event/host of the talk
 
-<!-- Permission to reuse and CC-BY license logo -->
-<i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
-Feel free to screenshot/share/reuse this presentation
-<span style="margin: 0 20px"></span>
-<a href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by" style="margin: 0 10px 0 2px"></i>CC-BY 4.0 License</a>
 
 </div>
 <div class="col-medium">
 
 <!-- Add logos here. Need these wrappers to align them to the bottom right -->
-<div class="talk-logos-container">
-<div class="talk-logos">
-  <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
-  <a href="https://www.iag.usp.br/"><img src="assets/iag.png" alt="Instituto de Astronomia, Geofísica e Ciências Atmosféricas"></a>
-  <a href="https://www.usp.br/"><img src="assets/usp.png" alt="Universidade de São Paulo"></a>
-</div>
+
 </div>
 
 </div>
@@ -56,11 +39,83 @@ Feel free to screenshot/share/reuse this presentation
 
 <section>
   <h1>O que é Artrose Facetária?</h1>
-  <ul>
-    <li>Desgaste nas juntas da coluna</li>
-    <li>Essas juntas ajudam a coluna a se mexer</li>
-    <li>Acontece com o tempo ou por esforço demais</li>
-  </ul>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Desgaste nas juntas da coluna</li>
+        <li>Essas juntas ajudam a coluna a se mexer</li>
+        <li>Acontece com o tempo ou por esforço demais</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/coluna_1.jpeg">
+    </div>
+  </div>
+
+</section>
+<section>
+  <h1>O que é Artrose Facetária?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Desgaste nas juntas da coluna</li>
+        <li>Essas juntas ajudam a coluna a se mexer</li>
+        <li>Acontece com o tempo ou por esforço demais</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/coluna_2.jpeg">
+    </div>
+  </div>
+
+</section>
+<section>
+  <h1>O que é Artrose Facetária?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Desgaste nas juntas da coluna</li>
+        <li>Essas juntas ajudam a coluna a se mexer</li>
+        <li>Acontece com o tempo ou por esforço demais</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/coluna_3.jpeg">
+    </div>
+  </div>
+
+</section>
+<section>
+  <h1>O que é Artrose Facetária?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Desgaste nas juntas da coluna</li>
+        <li>Essas juntas ajudam a coluna a se mexer</li>
+        <li>Acontece com o tempo ou por esforço demais</li>
+      </ul>
+    </div>
+    <div class="row">
+      <img src="assets/coluna_4.jpeg">
+    </div>
+  </div>
+
+</section>
+<section>
+  <h1>O que é Artrose Facetária?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Desgaste nas juntas da coluna</li>
+        <li>Essas juntas ajudam a coluna a se mexer</li>
+        <li>Acontece com o tempo ou por esforço demais</li>
+      </ul>
+    </div>
+    <div class="col tiny">
+      <img src="assets/coluna_5.jpeg">
+    </div>
+  </div>
+
 </section>
 
 <section>
