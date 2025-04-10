@@ -16,8 +16,12 @@ The reveal.js configuration can be found in index.html
 </h1>
 <p id="talk-authors">
   Vinícius Januário de Souza
+  <p>CRM-SP: 23242 <br>
+  TEOT: 18417<br>
+  RQE: 14958<p>
+    
 </p>
-<p></p>
+
 <!-- Place location and date side-by-side with affiliation logos -->
 <div class="row talk-info">
 <div class="col-large">
