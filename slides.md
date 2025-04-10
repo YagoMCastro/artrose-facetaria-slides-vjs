@@ -101,11 +101,50 @@ Feel free to screenshot/share/reuse this presentation
 
 <section>
   <h1>Outros tratamentos</h1>
-  <ul>
-    <li><strong>Infiltração:</strong> injeção com anestésico e anti-inflamatório</li>
-    <li><strong>Rizotomia:</strong> "desliga" o nervo da dor</li>
-    <li>Feitos com anestesia local</li>
-  </ul>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li><strong>Infiltração:</strong> injeção com anestésico e anti-inflamatório</li>
+        <li><strong>Rizotomia:</strong> "desliga" o nervo da dor</li>
+        <li>Feitos com anestesia local</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/esquema_agulha.jpeg">
+    </div>
+  </div>
+</section>
+
+<section>
+  <h1>Outros tratamentos</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li><strong>Infiltração:</strong> injeção com anestésico e anti-inflamatório</li>
+        <li><strong>Rizotomia:</strong> "desliga" o nervo da dor</li>
+        <li>Feitos com anestesia local</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/preparacao_infiltracao.jpeg">
+    </div>
+  </div>
+</section>
+
+<section>
+  <h1>Outros tratamentos</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li><strong>Infiltração:</strong> injeção com anestésico e anti-inflamatório</li>
+        <li><strong>Rizotomia:</strong> "desliga" o nervo da dor</li>
+        <li>Feitos com anestesia local</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/infiltracao.jpeg">
+    </div>
+  </div>
 </section>
 
 <section>
