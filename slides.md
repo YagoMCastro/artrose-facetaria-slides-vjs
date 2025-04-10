@@ -53,177 +53,150 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
+
 <section>
-  <h2>O que é Artrose Facetária?</h2>
+  <h1>O que é Artrose Facetária?</h1>
   <ul>
-    <li>Desgaste das articulações facetárias na coluna</li>
-    <li>Importantes para estabilidade e movimento</li>
-    <li>Comum com o envelhecimento ou sobrecarga</li>
+    <li>Desgaste nas juntas da coluna</li>
+    <li>Essas juntas ajudam a coluna a se mexer</li>
+    <li>Acontece com o tempo ou por esforço demais</li>
   </ul>
 </section>
 
 <section>
-  <h2>Causas e Fatores de Risco</h2>
+  <h1>Por que isso acontece?</h1>
   <ul>
-    <li>Idade, sobrecarga, má postura</li>
-    <li>Traumas ou lesões na coluna</li>
-    <li>Trabalho repetitivo e alterações no alinhamento</li>
+    <li>Envelhecimento</li>
+    <li>Má postura e sobrepeso</li>
+    <li>Movimentos repetitivos ou lesões</li>
   </ul>
 </section>
 
 <section>
-  <h2>Sintomas Comuns</h2>
+  <h1>Como você sente isso?</h1>
   <ul>
-    <li>Dor lombar ou cervical</li>
-    <li>Rigidez e dor que piora com o movimento</li>
-    <li>Eventualmente irradia para glúteos ou coxas</li>
+    <li>Dor nas costas ou no pescoço</li>
+    <li>Fica pior ao se mexer</li>
+    <li>Às vezes trava ou irradia a dor</li>
   </ul>
 </section>
 
 <section>
-  <h2>Diagnóstico</h2>
+  <h1>Como o médico descobre?</h1>
   <ul>
-    <li>Histórico, exame físico e exames de imagem</li>
-    <li>Teste com infiltração pode confirmar a origem</li>
+    <li>Conversa + exame físico</li>
+    <li>Exames de imagem: raio-x, ressonância etc.</li>
+    <li>Injeção teste ajuda a confirmar</li>
   </ul>
 </section>
 
 <section>
-  <h2>Tratamento Conservador</h2>
+  <h1>Tratamentos sem cirurgia</h1>
   <ul>
-    <li>Fisioterapia, medicações e gelo</li>
-    <li>Redução de peso e atividade física adaptada</li>
+    <li>Fisioterapia</li>
+    <li>Remédios e compressas</li>
+    <li>Perder peso e melhorar postura</li>
   </ul>
 </section>
 
 <section>
-  <h2>Tratamentos Intervencionistas</h2>
+  <h1>Outros tratamentos</h1>
   <ul>
-    <li>Infiltração facetária: anestésico + corticoide</li>
-    <li>Rizotomia por radiofrequência</li>
+    <li><strong>Infiltração:</strong> injeção com anestésico e anti-inflamatório</li>
+    <li><strong>Rizotomia:</strong> "desliga" o nervo da dor</li>
+    <li>Feitos com anestesia local</li>
   </ul>
 </section>
 
 <section>
-  <h1>Cirurgia (Casos Selecionados)</h1>
+  <h1>Cirurgia (casos raros)</h1>
   <ul>
-    <li>Artrodese ou descompressão</li>
-    <li>Indicação individualizada</li>
+    <li>Se nada mais funcionar</li>
+    <li>Colar vértebras ou aliviar pressão</li>
+    <li>Indicação bem avaliada</li>
   </ul>
 </section>
 
 <section>
-  <h2>Cuidados e Prognóstico</h2>
+  <h1>E depois?</h1>
   <ul>
-    <li>Manter fortalecimento, postura e peso saudável</li>
-    <li>Acompanhamento médico regular</li>
+    <li>Fortalecer músculos</li>
+    <li>Boa postura e peso ideal</li>
+    <li>Voltar ao médico regularmente</li>
   </ul>
 </section>
 
 <section>
-  <h2>Infiltração Facetária: o que é?</h2>
+  <h1>O que é infiltração facetária?</h1>
   <ul>
-    <li>Procedimento minimamente invasivo</li>
-    <li>Injeção de anestésico e corticoide na articulação</li>
-    <li>Dura cerca de 10 a 20 minutos</li>
+    <li>Injeção direto na junta da coluna</li>
+    <li>Ajuda a aliviar e entender a dor</li>
+    <li>Dura 10 a 20 minutos</li>
   </ul>
 </section>
 
 <section>
-  <h2>Para que serve?</h2>
+  <h1>Pra que serve?</h1>
   <ul>
-    <li>Aliviar dor causada por artrose facetária</li>
-    <li>Confirmar a origem da dor</li>
-    <li>Reduzir uso de medicamentos</li>
+    <li>Aliviar a dor</li>
+    <li>Confirmar se a dor vem da faceta</li>
+    <li>Reduzir remédios</li>
   </ul>
 </section>
 
 <section>
-  <h2>Como é feita?</h2>
+  <h1>Como é feita?</h1>
   <ol>
-    <li>Paciente de bruços</li>
-    <li>Anestesia local</li>
-    <li>Agulha guiada por imagem até a articulação</li>
-    <li>Injeção dos medicamentos</li>
+    <li>Deita de bruços</li>
+    <li>Recebe anestesia local</li>
+    <li>Agulha guiada por imagem</li>
+    <li>Medicamento aplicado na articulação</li>
   </ol>
 </section>
 
 <section>
-  <h2>O que o paciente sente?</h2>
+  <h1>Vai doer?</h1>
   <ul>
-    <li>Leve desconforto</li>
-    <li>Alívio rápido da dor</li>
-    <li>Sensação de calor ou peso local</li>
+    <li>Desconforto leve</li>
+    <li>Dor costuma melhorar rápido</li>
+    <li>Pode sentir calor ou peso no local</li>
   </ul>
 </section>
 
 <section>
-  <h2>Cuidados após o procedimento</h2>
+  <h1>Cuidados depois</h1>
   <ul>
-    <li>Evitar esforço por 24-48h</li>
+    <li>Evitar esforço por 1 ou 2 dias</li>
     <li>Atividade leve no mesmo dia</li>
-    <li>Observar sinais como febre ou dor intensa</li>
+    <li>Observar febre ou dor forte</li>
   </ul>
 </section>
 
 <section>
-  <h2>Efeitos Esperados</h2>
+  <h1>O que esperar?</h1>
   <ul>
-    <li>Alívio da dor por semanas ou meses</li>
-    <li>Melhora funcional</li>
-    <li>Possível repetição ou transição para rizotomia</li>
+    <li>Dor melhora por semanas ou meses</li>
+    <li>Mais mobilidade</li>
+    <li>Repetir ou passar para rizotomia se necessário</li>
   </ul>
 </section>
 
 <section>
-  <h2>Riscos (raros)</h2>
+  <h1>Tem risco?</h1>
   <ul>
-    <li>Infecção, sangramento, reação alérgica</li>
-    <li>Desconforto temporário</li>
-    <li>Riscos muito baixos com técnica correta</li>
+    <li>Raros: infecção, sangramento, alergia</li>
+    <li>Desconforto leve e passageiro</li>
+    <li>Bem seguro com equipe especializada</li>
   </ul>
 </section>
 
 <section>
-  <h2>Conclusão</h2>
+  <h1>Resumo</h1>
   <ul>
-    <li>Opção segura e eficaz para tratar dor da artrose facetária</li>
-    <li>Parte de um plano terapêutico completo</li>
-    <li>Foco em alívio da dor e qualidade de vida</li>
+    <li>Infiltração é segura e eficaz</li>
+    <li>Ajuda no controle da dor</li>
+    <li>Parte de um plano de tratamento completo</li>
   </ul>
 </section>
 
-===============================================================================
-
-<!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
-
-<div class="r-stretch centered">
-<div>
-
-<i class="fas fa-comments"></i>
-<br>
-Contact:
-<a href="https://www.leouieda.com">www.leouieda.com</a>
-
-<i class="fab fa-github"></i>
-<br>
-Source code for this presentation:
-<br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
-
-<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
-<br>
-Unless otherwise noted,
-the contents of this presentation are
-licensed under the
-<br>
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-</div>
-</div>
-<div class="footnote-left dark">
-
-The background image is a Landsat 9 scene of the city of São Paulo, Brazil,
-showing the USP campus in the center.
-
-</div>
+<section> <h1>Obrigado</h1></section>
