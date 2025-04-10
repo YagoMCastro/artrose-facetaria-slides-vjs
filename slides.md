@@ -83,11 +83,47 @@ Feel free to screenshot/share/reuse this presentation
 
 <section>
   <h1>Como o médico descobre?</h1>
-  <ul>
-    <li>Conversa + exame físico</li>
-    <li>Exames de imagem: raio-x, ressonância etc.</li>
-    <li>Injeção teste ajuda a confirmar</li>
-  </ul>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Conversa + exame físico</li>
+        <li>Exames de imagem: raio-x, ressonância etc.</li>
+        <li>Injeção teste ajuda a confirmar</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/exame.jpeg">
+    </div>
+  </div>
+</section>
+<section>
+  <h1>Como o médico descobre?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Conversa + exame físico</li>
+        <li>Exames de imagem: raio-x, ressonância etc.</li>
+        <li>Injeção teste ajuda a confirmar</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/exame_artrose.jpeg">
+    </div>
+  </div>
+</section><section>
+  <h1>Como o médico descobre?</h1>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>Conversa + exame físico</li>
+        <li>Exames de imagem: raio-x, ressonância etc.</li>
+        <li>Injeção teste ajuda a confirmar</li>
+      </ul>
+    </div>
+    <div class="col">
+      <img src="assets/exame_grid.jpeg">
+    </div>
+  </div>
 </section>
 
 <section>
