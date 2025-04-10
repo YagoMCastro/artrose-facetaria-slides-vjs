@@ -17,7 +17,6 @@ The reveal.js configuration can be found in index.html
 <p id="talk-authors">
   Vinícius Januário de Souza
   <p>CRM-SP: 23242 <br>
-  TEOT: 18417<br>
   RQE: 14958<p>
     
 </p>
